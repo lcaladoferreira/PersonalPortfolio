@@ -1,6 +1,6 @@
 # PersonalPortfolio
 
-<h1> This is my Personal Portfolio Web Project build for my Responsive Web Design Certification in FreeCodeCamp </h1>. <br>
+<h1> This is my Personal Portfolio Web Project build for my Responsive Web Design Certification at FreeCodeCamp </h1>. <br>
 
 
 ![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
