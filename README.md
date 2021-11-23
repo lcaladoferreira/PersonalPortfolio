@@ -1,9 +1,11 @@
 # PersonalPortfolio
 
+<h1> This is my Personal Portfolio Web Project build for my Responsive Web Design Certification in FreeCodeCamp </h1>. <br>
+
+
 ![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-<p> This is my Personal Portfolio Web Project made to complete the Responsive Web Design certification in FreeCodeCamp. <br>
-In this exemple, I got a chance to apply all of the skills, principles in HTML, CSS, Visual Design, Accessibility, obeying these characteristics:</p><br>
+<p> On this way, I got a chance to apply all of the <b>skills</b>, principles in HTML, CSS, Visual Design, Accessibility, obeying these characteristics:</p><br>
 
 <ol> User Story #1: My portfolio should have a welcome section with an id of welcome-section. </ol>
 
