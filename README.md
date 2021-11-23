@@ -1,5 +1,7 @@
 # PersonalPortfolio
 
+![](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 <p> This is my Personal Portfolio Web Project made to complete the Responsive Web Design certification in FreeCodeCamp. <br>
 In this exemple, I got a chance to apply all of the skills, principles in HTML, CSS, Visual Design, Accessibility, obeying these characteristics:</p><br>
 
